@@ -1,0 +1,1 @@
+iexpress /q /n VNCHacker.sed
