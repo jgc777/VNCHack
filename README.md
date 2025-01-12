@@ -21,3 +21,6 @@
  
  ## Eliminar VNCHacked
  Para asegurarse de que no tiene activo VNCHacked simplemente abra el administrador de tareas y asegúrese de que no hay un proceso llamado VNC Server (32 bits). Si este proceso está presente, finalícelo y lleve a cabo un análisis con su antivirus preferido.
+
+## Licencia
+[![License](https://img.shields.io/github/license/jgc777/VNCHack?style=for-the-badge)](./LICENSE)
