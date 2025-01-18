@@ -1,5 +1,5 @@
 # VNCHack
-![Static Badge](https://img.shields.io/badge/Educational-jgc7?style=for-the-badge&color=orange)
+![Educational](https://img.shields.io/badge/Educational-jgc7?style=for-the-badge&color=orange)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 [![License](https://img.shields.io/github/license/jgc777/VNCHack?style=for-the-badge)](./LICENSE)
 
