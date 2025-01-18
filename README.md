@@ -1,6 +1,7 @@
 # VNCHack
-![Educational](https://img.shields.io/badge/Educational-jgc7?style=for-the-badge&color=orange)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Educational](https://img.shields.io/badge/Educational-jgc7?style=for-the-badge&color=orange)
+![UltraVNC](https://img.shields.io/badge/UltraVNC-green?style=for-the-badge)
 [![License](https://img.shields.io/github/license/jgc777/VNCHack?style=for-the-badge)](./LICENSE)
 
 > Este proyecto es la puesta en escena de [este vídeo](https://web.archive.org/web/20240915164235/https://www.youtube.com/watch?v=BysVax3MFe8)
